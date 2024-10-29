@@ -1,0 +1,10 @@
+.div-charter {
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(75 85 99 / var(--tw-text-opacity))
+}
+
+body {
+    background: #e5e7eb
+
+}

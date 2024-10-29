@@ -1,0 +1,8 @@
+.block {
+    width: 427px;
+    padding: 24px;
+    height: 144px;
+    border: 1px solid #999;
+    border-radius: 10px;
+    margin-bottom: 32px;
+}

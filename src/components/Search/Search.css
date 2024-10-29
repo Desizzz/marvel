@@ -1,0 +1,26 @@
+.inp-search {
+    width: 1398px;
+    margin: 40px auto;
+    background: rgb(249 250 251 / var(--tw-bg-opacity));
+    height: 24px;
+    padding: 16px;
+    padding-left: 40px;
+    border: 1px solid rgb(97, 97, 97);
+    border-radius: 10px;
+}
+
+.search-div {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid rgb(164, 164, 164);
+}
+
+.no-hr {
+    border-bottom: none;
+}
+
+/* #root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+} */
